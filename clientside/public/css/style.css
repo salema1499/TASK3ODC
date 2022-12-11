@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: aliceblue;
+
+}
+
+div{
+    border:solid 4px rgb(196, 108, 108);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+   border-radius: 20px;
+}
